@@ -6,5 +6,14 @@ export default defineNuxtConfig({
     bearerDirectus: process.env.BEARER_DIRECTUS
     },
     
-  },
+  }
+//   css: [
+//     '~assets/css/main.css'
+//   ],
+
+
+// buildModules: [
+//     '@nuxtjs/style-resources'
+//   ],
+
 })
